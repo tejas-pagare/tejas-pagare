@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Nextjs and backend
 - 💞️ I’m looking to collaborate on product base company
 - 📫 How to reach me tejaspagare1625@gmail.com
-- 😄 Pronouns: tej(speed)
 - ⚡ Fun fact: ...
 
 <!---
